@@ -352,7 +352,7 @@ a {
     }
 }
 .campo input[type="text"],
-.campo input[type="tel"],
+.campo input[type="text"],
 .campo input[type="mail"],
 .campo textarea {
     width: 100%;
@@ -364,7 +364,7 @@ a {
     :is(.campo) :is( 
         input[type="text"], 
         input[type="text"],  
-        input[type="tel"],  
+        input[type="text"],  
         input[type="mail"] , 
         textarea ) {
         flex: 1;
