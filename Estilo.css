@@ -48,7 +48,7 @@ div2{
 }
 @keyframes slidein {
   from {
-    margin-left: 100%;
+    margin-left: 60%;
     width: 50%;
   }
 
